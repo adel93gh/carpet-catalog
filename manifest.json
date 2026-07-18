@@ -29,3 +29,22 @@
     }
   ]
 }
+{
+  "id": "/carpet-catalog/",
+  "name": "Carpet Catalog",
+  "short_name": "Carpet",
+  "start_url": "/carpet-catalog/",
+  ...
+}
+"screenshots": [
+  {
+    "src": "images/1.png",
+    "sizes": "1080x1920",
+    "type": "image/png"
+  },
+  {
+    "src": "images/2.png",
+    "sizes": "1080x1920",
+    "type": "image/png"
+  }
+]
