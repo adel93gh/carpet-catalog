@@ -1,12 +1,13 @@
 {
+  "id": "/carpet-catalog/",
   "name": "کاتالوگ موکت همدان",
   "short_name": "کاتالوگ",
   "description": "کاتالوگ دیجیتال موکت همدان",
   "lang": "fa",
   "dir": "rtl",
 
-  "start_url": "./",
-  "scope": "./",
+  "start_url": "/carpet-catalog/",
+  "scope": "/carpet-catalog/",
 
   "display": "standalone",
   "orientation": "portrait",
@@ -27,24 +28,18 @@
       "type": "image/png",
       "purpose": "any maskable"
     }
+  ],
+
+  "screenshots": [
+    {
+      "src": "images/1.png",
+      "sizes": "1080x1920",
+      "type": "image/png"
+    },
+    {
+      "src": "images/2.png",
+      "sizes": "1080x1920",
+      "type": "image/png"
+    }
   ]
 }
-{
-  "id": "/carpet-catalog/",
-  "name": "Carpet Catalog",
-  "short_name": "Carpet",
-  "start_url": "/carpet-catalog/",
-  ...
-}
-"screenshots": [
-  {
-    "src": "images/1.png",
-    "sizes": "1080x1920",
-    "type": "image/png"
-  },
-  {
-    "src": "images/2.png",
-    "sizes": "1080x1920",
-    "type": "image/png"
-  }
-]
