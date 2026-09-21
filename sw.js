@@ -1,4 +1,4 @@
-const CACHE_NAME = "carpet-catalog-v3";
+const CACHE_NAME = "carpet-catalog-v4";
 
 
 const FILES_TO_CACHE = [
